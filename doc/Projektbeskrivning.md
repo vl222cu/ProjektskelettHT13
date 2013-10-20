@@ -1,16 +1,11 @@
-*Projektets namn*
 # The Art of Rosalind Kwang
 
-*Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
 Projektmedlem: 
 https://github.com/vl222cu
 
-*[Exekverbar version av projektet]*
-*Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 Exekverbar version av projektet:
 https://github.com/vl222cu/Projektet
 
-*En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
 ## Projektet 
 Projektet avser att skapa och utforma en webbplats till ett konstgalleri där 
 den kommer att visa upp konstverk som min kära mor har målat. Då hon har varit
@@ -20,7 +15,6 @@ använda dom i kombination med detta projekt. Det blir både roligt för henne o
 för mig att visa upp vår kreativitet tillsammans. Denna idé fick jag i laboration 
 5.3 när vi skapade fotogalleriet. 
 
-*Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
 ## Tekniker
 Jag kommer främst att använda mig av CSS3 transforms och animation i detta projekt 
 då jag vill lära mig mer om dessa egenskaper. Jag kommer att ta hjälp av följande
@@ -32,7 +26,6 @@ Jag kommer även att kika på CSS-preprocessorn LESS och eventuellt implementera
 detta i projektet då denna syntax att skriva CSS på kan passa in på webbplatsen
 jag vill skapa.
 
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
 ## Förstudier
 Jag har börjat kolla på följande sida http://desandro.github.io/3dtransforms/
 för att få lite inspiration men kommer att göra fler studier på CSS3 transforms 
@@ -42,7 +35,6 @@ Har även kontrollerat kompatibilitet i caniuse.com så att de flesta webbläsar
 stödjer CSS3 transforms och animation så att jag inte skapar något som inte går
 att ta del av.
 
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
 ## Tidsplanering
 Länk till mitt Gantt-schema:
 https://docs.google.com/a/student.lnu.se/file/d/0B7_aR3LqS7c4emFUZkJRRDkxcms/edit?usp=sharing
