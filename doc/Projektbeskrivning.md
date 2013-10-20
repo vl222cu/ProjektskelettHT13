@@ -1,29 +1,50 @@
-
-# Projektnamn här
-Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+*Projektets namn*
+# The Art of Rosalind Kwang
 
 *Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
+Projektmedlem: 
+https://github.com/vl222cu
 
-[Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
-
+*[Exekverbar version av projektet]*
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
+Exekverbar version av projektet:
+https://github.com/vl222cu/Projektet
 
-## Beskrivning av projektet
 *En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
+## Projektet 
+Projektet avser att skapa och utforma en webbplats till ett konstgalleri där 
+den kommer att visa upp konstverk som min kära mor har målat. Då hon har varit
+konstnär i många år har hon nu samlat på sig en hel del tavlor under årens lopp
+och istället för att tavlorna ska samla damm tänkte jag ta tillfället i akt och 
+använda dom i kombination med detta projekt. Det blir både roligt för henne och 
+för mig att visa upp vår kreativitet tillsammans. Denna idé fick jag i laboration 
+5.3 när vi skapade fotogalleriet. 
 
-## Tekniker
 *Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
+## Tekniker
+Jag kommer främst att använda mig av CSS3 transforms och animation i detta projekt 
+då jag vill lära mig mer om dessa egenskaper. Jag kommer att ta hjälp av följande
+ramverk:
+  * Boilerplate
+  * Gridless
 
-## Begränsningar
-*Eventuella begränsningar i projektet. Kanske kommer viss funktionalitet att fejkas eftersom ni inte besitter kunskaper att skapa detta ännu?*
+Jag kommer även att kika på CSS-preprocessorn LESS och eventuellt implementera
+detta i projektet då denna syntax att skriva CSS på kan passa in på webbplatsen
+jag vill skapa.
 
-## Förstudier
 *Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
+## Förstudier
+Jag har börjat kolla på följande sida http://desandro.github.io/3dtransforms/
+för att få lite inspiration men kommer att göra fler studier på CSS3 transforms 
+och animation då jag vill se vad det finns för olika möjligheter i skapandet. 
 
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
+Har även kontrollerat kompatibilitet i caniuse.com så att de flesta webbläsare 
+stödjer CSS3 transforms och animation så att jag inte skapar något som inte går
+att ta del av.
 
-## Tidsplanering
 *Länka till tidsplaneringen här, eller fäll in som en bild.*
+## Tidsplanering
+Länk till mitt Gantt-schema:
+https://docs.google.com/a/student.lnu.se/file/d/0B7_aR3LqS7c4emFUZkJRRDkxcms/edit?usp=sharing
+
 
