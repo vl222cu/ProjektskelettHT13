@@ -37,6 +37,6 @@ att ta del av.
 
 ## Tidsplanering
 Länk till mitt Gantt-schema:
-https://docs.google.com/a/student.lnu.se/file/d/0B7_aR3LqS7c4emFUZkJRRDkxcms/edit?usp=sharing
+https://docs.google.com/file/d/0B7_aR3LqS7c4emFUZkJRRDkxcms/edit?usp=sharing
 
 
