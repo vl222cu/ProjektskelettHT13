@@ -4,7 +4,10 @@ Projektmedlem:
 https://github.com/vl222cu
 
 Exekverbar version av projektet:
-https://github.com/vl222cu/Projektet
+https://c9.io/vl222cu/projekt/workspace/pages/index.html
+
+GitHubrepo:
+https://github.com/vl222cu/Projektet (skapade nytt repo för projektet)
 
 ## Projektet 
 Projektet avser att skapa och utforma en webbplats till ett konstgalleri där 
