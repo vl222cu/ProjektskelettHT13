@@ -19,7 +19,7 @@ för mig att visa upp vår kreativitet tillsammans. Denna idé fick jag i labora
 5.3 när vi skapade fotogalleriet. 
 
 ## Tekniker
-Jag kommer främst att använda mig av CSS3 transforms och animation i detta projekt 
+Jag kommer främst att titta på CSS3 transforms och animations i detta projekt 
 då jag vill lära mig mer om dessa egenskaper. Jag kommer att ta hjälp av följande
 ramverk:
   * Boilerplate
@@ -32,7 +32,7 @@ jag vill skapa.
 ## Förstudier
 Jag har börjat kolla på följande sida http://desandro.github.io/3dtransforms/
 för att få lite inspiration men kommer att göra fler studier på CSS3 transforms 
-och animation då jag vill se vad det finns för olika möjligheter i skapandet. 
+och animations då jag vill se vad det finns för olika möjligheter i skapandet. 
 
 Har även kontrollerat kompatibilitet i caniuse.com så att de flesta webbläsare 
 stödjer CSS3 transforms och animation så att jag inte skapar något som inte går
